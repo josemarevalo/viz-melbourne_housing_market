@@ -10,7 +10,7 @@ The Dataset was obtained from a public Kaggle repository:
 
 [https://www.kaggle.com/anthonypino/melbourne-housing-market](https://www.kaggle.com/anthonypino/melbourne-housing-market)
 
-## More INfo
+## More Info
 
 To see more details please refer to the file `Data Viz Project on Tableau_ Melbourne's Housing Market.pdf`.
 
